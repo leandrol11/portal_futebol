@@ -1,0 +1,10 @@
+.link {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    color: var(--cor-fonte-principal);
+}
+
+.linkDecorated {
+    font-weight: bold;
+    text-shadow: 1px 1px rgb(3, 16, 73);
+}
